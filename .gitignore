@@ -1,9 +1,32 @@
 # macOS system files
 .DS_Store
 
-# Jupyter notebook checkpoints and temp files
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-.virtual_documents/
+*/.ipynb_checkpoints/
 
-# Anaconda project databases (optional)
+# Virtual documents (Jupyter)
+.virtual_documents/
+*/.virtual_documents/
+
+# Anaconda project files
 anaconda_projects/
+*/anaconda_projects/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment folders
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings (optional)
+.vscode/
+
+# Notebook output PDF files
+*.pdf
