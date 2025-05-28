@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints and temp files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Anaconda project databases (optional)
+anaconda_projects/
