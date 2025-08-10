@@ -1,2 +1,2 @@
 
-My entire journey of Machine Learning!
+My entire journey of Machine Learning
