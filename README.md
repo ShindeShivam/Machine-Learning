@@ -11,9 +11,9 @@ I’ve structured the repo into three major parts:
 
 ***3. Deep Learning with PyTorch*** – PyTorch implementations & projects.
 
-### References:
+## References:
 This learning journey is inspired and guided by:
 
 Hands-On Machine Learning series by Aurélien Géron
-
+and
 Official documentation of TensorFlow, PyTorch, and Scikit-learn
